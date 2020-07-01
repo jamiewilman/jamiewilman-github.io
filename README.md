@@ -1,4 +1,7 @@
-Fractal by HTML5 UP
+# PEDATA
+A plan to store a simple landing page to test a start-up idea: a searchable interactive database of UK private equity firms and assets they control
+
+Based on Fractal template by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
