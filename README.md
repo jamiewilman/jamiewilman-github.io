@@ -30,3 +30,6 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+	Screenshot images:
+		Screenly (https://www.screely.com/editor)
