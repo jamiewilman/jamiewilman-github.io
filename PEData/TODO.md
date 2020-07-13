@@ -3,8 +3,21 @@
 * think of a name for the product
     Who Owns It
     PE Data
+    PE
+    acquiredbywhom
+    whichpefund
+    assetradar
+    investmentdb
+    whoboughtit
+    AcquisitionDB
+    PE-DB (no - there is an existing medical database)
     Assetbase
-    Private
+    EquiData
+    PrivateAsset
+    Private Equity Radar
+    PERadar
+    acquibase
+    InvestmentDB
 * register a domain name
 * forward the CNAME records to GitHub page
 
